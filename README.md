@@ -4,7 +4,8 @@ A Flutter video player application that displays a scrollable feed of videos wit
 
 ## Demo
 
-[Add your demo video here]
+<img width="1080" height="2400" alt="Screenshot_1778356728" src="https://github.com/user-attachments/assets/061e037e-c1ec-4d17-9df7-3620dda487c1" />
+
 
 ## Project Intention
 
